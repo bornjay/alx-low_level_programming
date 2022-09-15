@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * main - Prints positive or negative integer
  * Return: 0
  */
