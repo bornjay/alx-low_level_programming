@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- *print_line - prints a straight line
- *@n: number of time the character should be printed
+ *print_line - a function that prints a straight line
+ *@n: input number of times to print '-'
  *Return: a straight line
  */
 
@@ -16,7 +16,7 @@ void print_line(int n)
 	}
        	else
 	{
-			for(i = l ; i <= n; i++)
+			for(i = 1 ; i <= n; i++)
 			{
 				_putchar('-'):
 			}
